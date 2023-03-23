@@ -1,4 +1,4 @@
-<h1>SPACETONIC/h1>
+<h1>SPACETONIC</h1>
 <p>SPACETONIC is a simple BMI (Body Mass Index) calculator app for Android, developed using Kotlin and Android Studio. The app allows users to input their height,weight and age, and then calculates their BMI, providing them with a general indication of their overall health and fitness. </p>
 
 <h2>How To Use?</h2>
